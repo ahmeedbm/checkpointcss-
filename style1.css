@@ -1,0 +1,27 @@
+h1{
+
+    size: 50cm;
+}
+div{
+  font-size: 30px;
+  font-style: italic;
+text-decoration: none;
+}
+#b{
+color: aquamarine;
+}
+
+.box{
+    display:flex;
+    width:100%;
+    justify-content: flex-start;
+}
+
+.box h1{
+    margin: 0 auto;
+}
+.e{
+    text-decoration: none;
+}
+
+
